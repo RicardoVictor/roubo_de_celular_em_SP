@@ -1,7 +1,7 @@
 ## Estudo das Ocorrências de Roubo de Celular na Capital de São Paulo
 
   Os dados presentes neste repositório fornecem as ocorrências de roubo de celular da cidade de São Paulo do período de 
-  Janeiro de 2010 até Novembro de 2018. Os dados foram obtidos através da Secretaria Da Segurança Pública do Governo do Estado
+  Janeiro de 2010 até Agosto de 2020. Os dados foram obtidos através da Secretaria Da Segurança Pública do Governo do Estado
   de São Paulo.
   
   O conjunto de dados fornecem informações das ocorrências como data, período, logradouro, longitude, latitude, bairro, entre outros. 
@@ -15,10 +15,10 @@
      Determinar os lugradouros, bairros e regiões com maiores números de roubo de celular.
      Determinar os locais com maiores números de roubo de celular.
      Determinar veículos com maiores números de roubo de celular em veículo.
-     Utilizar o modelo ARIMA para prever o número de ocorrências nos próximos anos.
+     Utilizar o modelo ARIMA, LSTM e HOLT WINTERS para prever o número de ocorrências nos próximos anos.
      
 <br />
 
 <p>Link para visualização do notebook pelo NBViewer: (necessário para visualização dos gráficos)
 
-https://nbviewer.jupyter.org/github/LucasMorettoRodrigues/roubo_de_celular_em_SP/blob/master/Estudo_dos_Roubos_de_Celulares_na_Capital_de_S%C3%A3o_Paulo.ipynb
+https://nbviewer.jupyter.org/github/RicardoVictor/roubo_de_celular_em_SP/blob/master/Estudo_dos_Roubos_de_Celulares_Sao_Paulo.ipynb
